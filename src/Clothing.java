@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-//SEAN TRAN, PSID- 1521713
+//SEAN TRAN, PSID- 1521713.
 public class Clothing extends Item implements Tax, Discount{
     private String brand;
     private double price;
